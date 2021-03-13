@@ -1,0 +1,13 @@
+.service-card {
+    border: 1px solid black;
+    width: 15.25rem;
+    height: 13.875rem;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+.card-content {
+    width: 9.625rem;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 40px;
+}

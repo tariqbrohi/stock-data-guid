@@ -1,0 +1,20 @@
+.banner {
+    margin-top: 3.125rem;
+}
+#launch-chart-btn {
+    width: 25rem;
+    height: 4.5rem;
+    background: #55BB53;
+    opacity: 1;
+    color: #0B2A41;
+    border-color: white;
+    font-size: xx-large;
+    border-radius: 1.25rem;
+    margin-top: 6.5rem;
+    margin-left: 6rem;
+    
+}
+
+.content {
+    margin-top: 1.25rem;
+}

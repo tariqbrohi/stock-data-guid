@@ -1,0 +1,106 @@
+.header {
+    background: #0B2A41;
+    top: 0px;
+    left: 0px;
+}
+
+.logo {
+    top: 18px;
+    left: 27px;
+    width: 193px;
+    height: 80px;
+    opacity: 1;
+}
+
+#input-group-dropdown-1 {
+    border-color: white;
+    background: white;
+    color: #30344D;
+    border-radius: 50px 0 0 50px;
+    outline-style: none;
+    font-size: 1.25rem;
+}
+#brand {
+    top: 18px;
+    left: 27px;
+    width: 193px;
+    height: 80px;
+    opacity: 1;
+    color: antiquewhite;
+}
+
+.language {
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 29px;
+    width: 48px;
+    height: 48px;
+    background: #4E647A 0% 0% no-repeat padding-box;
+    opacity: 0.62;
+    font-size: 1.125rem;
+}
+
+#search-field {
+    border-radius: 0 50px 50px 0;
+    width: 400px;
+    font-size: 1.25rem;
+}
+
+.search-divider {
+    height: 8px;
+}
+
+#search {
+    margin-top: 31px;
+}
+
+.signIn-freetrial {
+    display: flex;
+    margin-top: 41px;
+}
+
+.sign-in {
+    padding: 0;
+    color: #E4E4E4;
+    font-size: 1.125rem;
+}
+.trial {
+    padding: 0;
+    color: #85BF4B;
+    font-size: 1.125rem;
+}
+
+.navbar.navbar-expand.navbar-light {
+    justify-content: center;
+}
+
+#market-link {
+    color: white;
+    font-size: 1.125rem;
+}
+#services-link {
+    color: white;
+    font-size: 1.125rem;
+    margin-left: 1.5rem;
+}
+#chart-link {
+    color: white;
+    font-size: 1.125rem;
+    margin-left: 1.5rem;
+}
+#sub-link {
+    color: white;
+    font-size: 1.125rem;
+    margin-left: 1.5rem;
+}
+#contact-link {
+    color: white;
+    font-size: 1.125rem;
+    margin-left: 1.5rem;
+}
+/* 
+#header-container {
+    margin-left: 10px;
+} */
